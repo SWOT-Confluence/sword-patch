@@ -6,4 +6,4 @@ This repo is designed to store both:
 1) a json file of changes or "patches" to apply to the SWORD data, and 
 2) miscellaneous tools to diagnose SWORD issues and create patches.
 
-More to be added...
+The native list of changes is stored in the SWORD_patches.
