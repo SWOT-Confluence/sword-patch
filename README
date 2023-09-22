@@ -1,1 +1,9 @@
-Mike please fill this out
+SWORD (https://www.swordexplorer.com) is an amazing resource, and is continually updated, but cannot be made perfect for all applications. 
+
+So, the DAWG has come up with a strategy to create "patches" for SWORD, to be read in by Confluence, and to improve FLPE.
+
+This repo is designed to store both:
+1) a json file of changes or "patches" to apply to the SWORD data, and 
+2) miscellaneous tools to diagnose SWORD issues and create patches.
+
+More to be added...
