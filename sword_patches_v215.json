@@ -1,32 +1,20 @@
 {
   "metadata": {
-    "version_num": 0,
-    "most recent update:": "2023-09-22"
+    "version_num": 1,
+    "most recent update:": "2023-09-27"
   },
   "reach_data": {
-    "73119000011": {
+    "73120000976": {
       "metadata": {
-        "date_patch_added": "2023-09-23",
+        "date_patch_added": "2023-09-27",
         "person_responsible": "Mike Durand",
         "reason_for_patch": "bad topology",
-        "patch_comment": "may remove this patch; unsure it should be here"
+        "patch_comment": "n/a"
       },
-      "n_rch_up": 1,
       "rch_id_up": [
-        "73119000021"
-      ]
-    },
-    "73119000041": {
-      "metadata": {
-        "date_patch_added": "2023-09-23",
-        "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
-        "patch_comment": "may remove this patch; unsure it should be here"
-      },
-      "n_rch_up": 1,
-      "rch_id_up": [
-        "73119000111"
-      ]
+        "73120000013"
+      ],
+      "rch_id_dn": []
     }
   },
   "node_data": {}
