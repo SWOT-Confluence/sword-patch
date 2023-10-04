@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version_num": 1,
+    "version_num": 2,
     "most recent update:": "2023-09-27"
   },
   "reach_data": {
@@ -13,6 +13,105 @@
       },
       "rch_id_up": [
         73120000013,
+        0,
+        0,
+        0
+      ],
+      "rch_id_dn": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "73114001463": {
+      "metadata": {
+        "date_patch_added": "2023-10-03",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_up": [
+        73114001283,
+        73114001273,
+        0,
+        0
+      ],
+      "rch_id_dn": [
+        73114001253,
+        0,
+        0,
+        0
+      ]
+    },
+    "73114001473": {
+      "metadata": {
+        "date_patch_added": "2023-10-03",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        73114001253,
+        0,
+        0,
+        0
+      ]
+    },
+    "73114001273": {
+      "metadata": {
+        "date_patch_added": "2023-10-04",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        73114001261,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        73114001463,
+        0,
+        0,
+        0
+      ]
+    },
+    "73114001261": {
+      "metadata": {
+        "date_patch_added": "2023-10-03",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 2,
+      "rch_id_up": [
+        73114001313,
+        73114001361,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        73114001273,
+        0,
+        0,
+        0
+      ]
+    },
+    "73118000376": {
+      "metadata": {
+        "date_patch_added": "2023-10-03",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_up": [
+        73118000013,
         0,
         0,
         0
