@@ -8,4 +8,6 @@ This repo is designed to store both:
 
 The native list of changes is stored in the sword_patches_vxxx.json file, where xxx is the three-digit SWORD version number. (The three-digit version number can be found in the L2 Single Pass xml file, with the tag "xref_prior_river_db_files".
 
-There will be a separate file for each SWORD version, and one version for eqch continent. 
+There will be a separate file for each SWORD version, and one version for each continent. 
+
+The metadata within each json file contains the "version num", which is the version number of each file. Each time new reaches are added, increment the version number.
