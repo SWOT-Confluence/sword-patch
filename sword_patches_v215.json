@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version_num": 2,
-    "most recent update:": "2023-09-27"
+    "version_num": 3,
+    "most recent update:": "2023-10-11"
   },
   "reach_data": {
     "73120000976": {
@@ -118,6 +118,658 @@
       ],
       "rch_id_dn": [
         0,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000971": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000964,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000964": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212000971,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000954,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000954": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212000964,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000944,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000944": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212000954,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000931,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000931": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212000944,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000924,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212001171": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_dn": [
+        23212001164,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212001164": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212001171,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212001154,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212001154": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212001164,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000584,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000584": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212001154,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000574,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212000574": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23212000584,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23212000561,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212001205": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_dn": [
+        23212001185,
+        0,
+        0,
+        0
+      ],
+      "rch_id_up": [
+        23212001214,
+        0,
+        0,
+        0
+      ]
+    },
+    "23212001416": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 0,
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 0,
+      "rch_id_dn": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "23213000106": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_down": 0
+    },
+    "23214200444": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200451,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200434,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214200434": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200444,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200424,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214200424": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200434,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200411,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214200411": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200424,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200404,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214200404": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200411,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200391,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214200391": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23214200404,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23214200384,
+        0,
+        0,
+        0
+      ]
+    },
+    "23214300223": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 0,
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 0,
+      "rch_id_dn": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000714": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23216000721,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23216000854,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000854": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23216000714,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23216000841,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000861": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23216000874,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23216000794,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000794": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23216000861,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23216000781,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000011": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 0,
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 0,
+      "rch_id_dn": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "23216000831": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23216000841,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23216001565,
+        0,
+        0,
+        0
+      ]
+    },
+    "23218000561": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23218000574,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23218000554,
+        0,
+        0,
+        0
+      ]
+    },
+    "23218000554": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23218000561,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23218000544,
+        0,
+        0,
+        0
+      ]
+    },
+    "23218000544": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23218000554,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23218000534,
+        0,
+        0,
+        0
+      ]
+    },
+    "23218000534": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23218000544,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23218000524,
+        0,
+        0,
+        0
+      ]
+    },
+    "23218000524": {
+      "metadata": {
+        "date_patch_added": "2023-10-10",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23218000534,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23218000511,
         0,
         0,
         0
