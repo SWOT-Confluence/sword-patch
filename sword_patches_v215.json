@@ -1,7 +1,8 @@
 {
   "metadata": {
-    "version_num": 3,
-    "most recent update:": "2023-10-11"
+    "version_num": 3.1,
+    "most recent update:": "2023-11-10",
+    "comment:": "first test merging INRAE patches into the patch list"
   },
   "reach_data": {
     "73120000976": {
@@ -770,6 +771,26 @@
       "n_rch_down": 1,
       "rch_id_dn": [
         23218000511,
+        0,
+        0,
+        0
+      ]
+    },
+    "45245700191": {
+      "metadata": {
+        "date_patch_added": "07-Nov-2023 14:39:33",
+        "person_responsible": "Pierre-Olivier Malaterre"
+      },
+      "n_rch_up": 2,
+      "n_rch_down": 1,
+      "rch_id_up": [
+        45245900011,
+        45245800011,
+        0,
+        0
+      ],
+      "rch_id_dn": [
+        45245700181,
         0,
         0,
         0
