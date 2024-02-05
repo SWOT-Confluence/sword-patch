@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version_num": 4,
-    "most recent update:": "2023-11-28",
-    "comment:": "Missouri River Patches"
+    "version_num": 5,
+    "most recent update:": "2024-02-05",
+    "comment:": "Upper Rhine River Patches"
   },
   "reach_data": {
     "73120000976": {
@@ -3355,6 +3355,160 @@
       ],
       "rch_id_dn": [
         74299800241,
+        0,
+        0,
+        0
+      ]
+    },
+    "23267000561": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_down": 2,
+      "rch_id_dn": [
+        23267000541,
+        23267000531,
+        0,
+        0
+      ]
+    },
+    "23267000531": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23267000561,
+        0,
+        0,
+        0
+      ]
+    },
+    "23267000524": {
+      "metadata": {
+        "date_patch_added": "2024-02-05",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23267000531,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23267000511,
+        0,
+        0,
+        0
+      ]
+    },
+    "23267000511": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 2,
+      "rch_id_up": [
+        23267000524,
+        23267000541,
+        0,
+        0
+      ]
+    },
+    "23267000651": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_up": [
+        23267000664,
+        0,
+        0,
+        0
+      ]
+    },
+    "23268000761": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23268000893,
+        0,
+        0,
+        0
+      ]
+    },
+    "23268000893": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23268000761,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23268000881,
+        0,
+        0,
+        0
+      ]
+    },
+    "23268000881": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        23268000893,
+        0,
+        0,
+        0
+      ]
+    },
+    "23268001056": {
+      "metadata": {
+        "date_patch_added": "2024-05-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        23268000961,
         0,
         0,
         0
