@@ -4129,6 +4129,94 @@
         0,
         0
       ]
+    },
+    "64247900041": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 2,
+      "rch_id_up": [
+        64247900071,
+        64247900021,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247900051,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900011": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 0,
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 0,
+      "rch_id_dn": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900051": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247900041,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247900061,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900061": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247900051,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247500041,
+        0,
+        0,
+        0
+      ]
     }
   },
   "node_data": {}
