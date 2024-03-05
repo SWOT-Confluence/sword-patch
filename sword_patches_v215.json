@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version_num": 6,
-    "most recent update:": "2024-02-29",
-    "comment:": "Paraguay Interbasin L5=64247 River Patches"
+    "version_num": 6.1,
+    "most recent update:": "2024-03-05",
+    "comment:": "Added patches to make integrator work properly at the two major Paraguay confluences in L5=64247"
   },
   "reach_data": {
     "73120000976": {
@@ -3954,72 +3954,6 @@
         0
       ]
     },
-    "64247900451": {
-      "metadata": {
-        "date_patch_added": "2024-29-02",
-        "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
-        "patch_comment": "n/a"
-      },
-      "n_rch_up": 1,
-      "rch_id_up": [
-        64247900421,
-        0,
-        0,
-        0
-      ],
-      "n_rch_down": 1,
-      "rch_id_dn": [
-        64247801911,
-        0,
-        0,
-        0
-      ]
-    },
-    "64247801901": {
-      "metadata": {
-        "date_patch_added": "2024-29-02",
-        "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
-        "patch_comment": "n/a"
-      },
-      "n_rch_up": 1,
-      "rch_id_up": [
-        64247801996,
-        0,
-        0,
-        0
-      ],
-      "n_rch_down": 1,
-      "rch_id_dn": [
-        64247801911,
-        0,
-        0,
-        0
-      ]
-    },
-    "64247801911": {
-      "metadata": {
-        "date_patch_added": "2024-29-02",
-        "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
-        "patch_comment": "n/a"
-      },
-      "n_rch_up": 2,
-      "rch_id_up": [
-        64247900451,
-        64247801901,
-        0,
-        0
-      ],
-      "n_rch_down": 1,
-      "rch_id_dn": [
-        64247801131,
-        0,
-        0,
-        0
-      ]
-    },
     "64247801121": {
       "metadata": {
         "date_patch_added": "2024-29-02",
@@ -4059,6 +3993,138 @@
       "n_rch_down": 1,
       "rch_id_dn": [
         64247801901,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247801901": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247801996,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247801911,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900451": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247900421,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247801911,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247801911": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 2,
+      "rch_id_up": [
+        64247900451,
+        64247801901,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247801131,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900111": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247900101,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247900081,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900101": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 2,
+      "rch_id_up": [
+        64247900143,
+        64247900121,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247900111,
+        0,
+        0,
+        0
+      ]
+    },
+    "64247900081": {
+      "metadata": {
+        "date_patch_added": "2024-29-02",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        64247900111,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        64247900071,
         0,
         0,
         0
