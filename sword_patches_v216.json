@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version_num": 1,
-    "most recent update:": "2024-04-01",
-    "comment:": "Begin SWORD16 patches: Ohio River Patches"
+    "version_num": 2,
+    "most recent update:": "2024-05-21",
+    "comment:": "Update SWORD16 patches: Ohio River Patches. Added two patches on Cumberland River"
   },
   "reach_data": {
     "74262400021": {
@@ -22,6 +22,28 @@
       "n_rch_down": 1,
       "rch_id_dn": [
         74262400013,
+        0,
+        0,
+        0
+      ]
+    },
+    "74262400013": {
+      "metadata": {
+        "date_patch_added": "2024-04-01",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        74262400021,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        74262301013,
         0,
         0,
         0
@@ -665,28 +687,6 @@
         0
       ]
     },
-    "74262400013": {
-      "metadata": {
-        "date_patch_added": "2024-04-01",
-        "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
-        "patch_comment": "n/a"
-      },
-      "n_rch_up": 1,
-      "rch_id_up": [
-        74262400021,
-        0,
-        0,
-        0
-      ],
-      "n_rch_down": 1,
-      "rch_id_dn": [
-        74262301013,
-        0,
-        0,
-        0
-      ]
-    },
     "74262400201": {
       "metadata": {
         "date_patch_added": "2024-04-01",
@@ -872,6 +872,50 @@
       "n_rch_down": 1,
       "rch_id_dn": [
         74269800151,
+        0,
+        0,
+        0
+      ]
+    },
+    "74264100246": {
+      "metadata": {
+        "date_patch_added": "2024-04-01",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 0,
+      "rch_id_up": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        74264100203,
+        0,
+        0,
+        0
+      ]
+    },
+    "74264100203": {
+      "metadata": {
+        "date_patch_added": "2024-04-01",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad topology",
+        "patch_comment": "n/a"
+      },
+      "n_rch_up": 1,
+      "rch_id_up": [
+        74264100246,
+        0,
+        0,
+        0
+      ],
+      "n_rch_down": 1,
+      "rch_id_dn": [
+        74264100191,
         0,
         0,
         0
