@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version_num": 2,
-    "most recent update:": "2024-05-21",
+    "version_num": 3,
+    "most recent update:": "2024-07-22",
     "comment:": "Update SWORD16 patches: Ohio River Patches. Added two patches on Cumberland River"
   },
   "reach_data": {
@@ -470,8 +470,9 @@
     "74262300661": {
       "metadata": {
         "date_patch_added": "2024-04-01",
+        "date_patch_modified": "2024-07-22",
         "person_responsible": "Mike Durand",
-        "reason_for_patch": "bad topology",
+        "reason_for_patch": "bad topology + bad drainage area",
         "patch_comment": "n/a"
       },
       "n_rch_up": 2,
@@ -487,7 +488,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "facc": 239.4
     },
     "74262300543": {
       "metadata": {
@@ -920,6 +922,43 @@
         0,
         0
       ]
+    },
+    "74262300651": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 5.0
+    },
+    "74262800416": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 36.0
+    },
+    "74262800103": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 36.0
+    },
+    "74262800091": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 36.0
     }
-  }
+  },
+  "comment": "Update SWORD16 patches: Ohio River. Added several patches for drainage area."
 }
