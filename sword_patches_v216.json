@@ -930,7 +930,25 @@
         "reason_for_patch": "bad drainage area",
         "patch_comment": "n/a"
       },
-      "facc": 5.0
+      "facc": 5
+    },
+    "74262300643": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 5
+    },
+    "74262301376": {
+      "metadata": {
+        "date_patch_added": "2024-07-22",
+        "person_responsible": "Mike Durand",
+        "reason_for_patch": "bad drainage area",
+        "patch_comment": "n/a"
+      },
+      "facc": 5
     },
     "74262800416": {
       "metadata": {
